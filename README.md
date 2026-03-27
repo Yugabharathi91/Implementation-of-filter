@@ -1,7 +1,7 @@
 # Implementation-of-filter
 
-### Developed By   :  Darshan V
-### Register Number: 212224230050
+### Developed By   :  YUGABHARATHI M
+### Register Number: 212224230314
 
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
@@ -153,7 +153,7 @@ plt.show()
 i) Using Averaging Filter
 </br>
 </br>
-<img width="717" height="517" alt="download" src="https://github.com/user-attachments/assets/bdfc863a-3086-45e9-a563-2cebcb0bfd6e" />
+<img width="911" height="362" alt="image" src="https://github.com/user-attachments/assets/50f9b5e9-3d82-4252-be0a-d1fac7fbe9d1" />
 
 
 </br>
@@ -162,7 +162,7 @@ i) Using Averaging Filter
 ii)Using Weighted Averaging Filter
 </br>
 </br>
-<img width="531" height="380" alt="download" src="https://github.com/user-attachments/assets/68cffe06-57a9-4308-abfa-a0df8f544cbd" />
+<img width="675" height="271" alt="image" src="https://github.com/user-attachments/assets/de9f9078-560c-436e-aee0-ac520015db56" />
 
 
 
@@ -172,7 +172,7 @@ ii)Using Weighted Averaging Filter
 iii)Using Gaussian Filter
 </br>
 </br>
-<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/6193b05c-1a06-43cd-83e6-8fdc63f27f38" />
+<img width="704" height="290" alt="image" src="https://github.com/user-attachments/assets/e11059de-1d7e-48ce-ba34-dea5fb509069" />
 
 
 
@@ -182,7 +182,8 @@ iii)Using Gaussian Filter
 iv) Using Median Filter
 </br>
 </br>
-<img width="717" height="517" alt="download" src="https://github.com/user-attachments/assets/d8d1c9dd-ba64-4833-8ea5-187bb07b66ec" />
+<img width="931" height="352" alt="image" src="https://github.com/user-attachments/assets/ee01aa6f-d9d5-4c85-9c78-31d8fd82498a" />
+
 
 </br>
 </br>
@@ -193,7 +194,8 @@ iv) Using Median Filter
 i) Using Laplacian Kernal
 </br>
 </br>
-<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/60dcbbfb-ac42-4a79-8f2a-413e7862986c" />
+<img width="649" height="266" alt="image" src="https://github.com/user-attachments/assets/2133016c-91e4-4dbe-b869-2c75d4d08f6b" />
+
 
 
 
@@ -204,7 +206,7 @@ ii) Using Laplacian Operator
 </br>
 </br>
 
-<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/d33cac1b-412d-4854-a4f7-b6b26b2c5ea2" />
+<img width="670" height="268" alt="image" src="https://github.com/user-attachments/assets/52fa044a-fda6-423b-8b17-cf10720e3c04" />
 
 </br>
 </br>
